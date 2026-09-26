@@ -3,8 +3,6 @@
 **Herramientas de Computación en la Nube** · Maestría en Analítica Aplicada
 Universidad de La Sabana
 
-Autor: Efren Alexander Granados Latorre
-
 ---
 
 ## Objetivo
