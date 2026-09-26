@@ -2,7 +2,6 @@
 -- Script DDL - Tabla de cafeterias de Teusaquillo
 -- Actividad 3 - Herramientas de Computacion en la Nube
 -- Maestria en Analitica Aplicada - Universidad de La Sabana
--- Autor: Efren Alexander Granados Latorre
 -- Motor: PostgreSQL (Amazon RDS - db.t3.micro)
 -- Fuente de datos: Foursquare Places API
 -- =====================================================================
